@@ -1,0 +1,37 @@
+[
+  {
+    "name": "datos",
+    "path": "/datos",
+    "component": "C:\\\\Users\\\\music\\\\Documents\\\\Portafolio\\\\portafolio\\\\portafolio\\\\pages\\\\datos.vue",
+    "chunkName": "pages/datos",
+    "_name": "_fc65b310"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\music\\\\Documents\\\\Portafolio\\\\portafolio\\\\portafolio\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_6e2fd652"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\music\\\\Documents\\\\Portafolio\\\\portafolio\\\\portafolio\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_180c8726"
+  },
+  {
+    "name": "signUp",
+    "path": "/signUp",
+    "component": "C:\\\\Users\\\\music\\\\Documents\\\\Portafolio\\\\portafolio\\\\portafolio\\\\pages\\\\signUp.vue",
+    "chunkName": "pages/signUp",
+    "_name": "_0179926a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\music\\\\Documents\\\\Portafolio\\\\portafolio\\\\portafolio\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4e64e40f"
+  }
+]
