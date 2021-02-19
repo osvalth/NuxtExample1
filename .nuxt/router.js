@@ -4,11 +4,11 @@ import { normalizeURL, decode } from '@nuxt/ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _fc65b310 = () => interopDefault(import('..\\pages\\datos.vue' /* webpackChunkName: "pages/datos" */))
-const _6e2fd652 = () => interopDefault(import('..\\pages\\inspire.vue' /* webpackChunkName: "pages/inspire" */))
-const _180c8726 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
-const _0179926a = () => interopDefault(import('..\\pages\\signUp.vue' /* webpackChunkName: "pages/signUp" */))
-const _4e64e40f = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _044555f7 = () => interopDefault(import('..\\pages\\datos.vue' /* webpackChunkName: "pages/datos" */))
+const _e3db3ed4 = () => interopDefault(import('..\\pages\\inspire.vue' /* webpackChunkName: "pages/inspire" */))
+const _caf692b6 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
+const _685e11a8 = () => interopDefault(import('..\\pages\\signUp.vue' /* webpackChunkName: "pages/signUp" */))
+const _5e45d8e4 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -28,23 +28,23 @@ export const routerOptions = {
 
   routes: [{
     path: "/datos",
-    component: _fc65b310,
+    component: _044555f7,
     name: "datos"
   }, {
     path: "/inspire",
-    component: _6e2fd652,
+    component: _e3db3ed4,
     name: "inspire"
   }, {
     path: "/login",
-    component: _180c8726,
+    component: _caf692b6,
     name: "login"
   }, {
     path: "/signUp",
-    component: _0179926a,
+    component: _685e11a8,
     name: "signUp"
   }, {
     path: "/",
-    component: _4e64e40f,
+    component: _5e45d8e4,
     name: "index"
   }],
 
